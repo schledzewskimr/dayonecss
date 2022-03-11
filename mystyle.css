@@ -15,7 +15,7 @@ h1:hover{
 h2 {
     text-align: center;
     background-color: chocolate;
-    width: 15%;
+    width: 25%;
     margin: auto;
 }
 h2:hover{
@@ -62,20 +62,22 @@ th{
     padding: 4px;
 }
 img {
-    width: 400px;
-    height: 400px;
+    width: 20em;
+    height: 20em;
     padding: 3px;
 }
 .images {
     background-color: blueviolet;
+    width: auto;
     text-align: center;
+    background-size: contain;
 }
 .pturtle:hover {
-    border: 5px solid white;
+    border: 7px solid white;
 }
 .apturtle:hover {
-    border: 5px solid white;
+    border: 7px solid white;
 }
 .uturtle:hover {
-    border: 5px solid white;
+    border: 7px solid white;
 }
