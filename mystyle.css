@@ -7,8 +7,10 @@ h1 {
     text-align: right;
 }
 h2 {
-    background-color: chocolate;
     text-align: center;
+    background-color: chocolate;
+    width: 25%;
+    margin: auto;
 }
 p{
     font-family: cursive;
@@ -44,4 +46,13 @@ th{
     font-size: larger;
     border: 1px solid black;
     padding: 4px;
+}
+img {
+    width: 400px;
+    height: 400px;
+    padding: 3px;
+}
+.images {
+    background-color: blueviolet;
+    text-align: center;
 }
