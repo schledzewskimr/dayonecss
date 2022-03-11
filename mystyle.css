@@ -1,0 +1,36 @@
+html {
+    background-color: aqua;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+table{
+    background-color: cadetblue;
+}
+td{
+    border: 1px solid black;
+    padding: 2px;
+}
+tr:nth-child(even){
+    background-color: chartreuse;
+    color: rgb(132, 187, 43);
+}
+tr:nth-child(even):hover{
+    color: darkgreen;
+}
+tr:nth-child(odd){
+    background-color: deeppink;
+    color: darkviolet;
+}
+tr:nth-child(odd):hover{
+    color: burlywood;
+}
+th{
+    background-color: aquamarine;
+    color: blue;
+    font-size: larger;
+    border: 1px solid black;
+    padding: 4px;
+}
