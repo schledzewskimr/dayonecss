@@ -4,10 +4,21 @@ html {
 
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    text-align: right;
+}
+h2 {
+    background-color: chocolate;
+    text-align: center;
+}
+p{
+    font-family: cursive;
+    border: 1px greenyellow solid;
 }
 table{
     background-color: cadetblue;
+    text-align: center;
+    margin: auto;
+    border: 1px red;
 }
 td{
     border: 1px solid black;
