@@ -6,6 +6,10 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: right;
     font-size: 100px;
+    margin: auto;
+}
+h1:hover{
+    text-align: left;
 }
 h2 {
     text-align: center;
@@ -13,9 +17,15 @@ h2 {
     width: 25%;
     margin: auto;
 }
+h2:hover{
+    text-align: left;
+}
 p{
     font-family: cursive;
     border: 1px greenyellow solid;
+}
+p:hover{
+    text-align: right;
 }
 table{
     background-color: cadetblue;
@@ -56,4 +66,14 @@ img {
 .images {
     background-color: blueviolet;
     text-align: center;
+}
+.pturtle:hover {
+    border: 5px solid white;
+    te
+}
+.apturtle:hover {
+    border: 5px solid white;
+}
+.uturtle:hover {
+    border: 5px solid white;
 }
