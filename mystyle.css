@@ -70,7 +70,6 @@ img {
     background-color: blueviolet;
     width: auto;
     text-align: center;
-    background-size: contain;
 }
 .pturtle:hover {
     border: 7px solid white;
